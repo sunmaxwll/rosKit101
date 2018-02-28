@@ -51,10 +51,6 @@ ubuntu系统的常用命令
 
 cd
 
-cd ..
-
-cd ~/
-
 ls
 
 mkdir
