@@ -89,7 +89,7 @@ rqt
 
 硬件组成
 
-differential control Kinematic model\(差速运动底盘-Arduino\)
+differential control Kinematic model\(差速运动底盘-Arduino底层驱动器\)
 
 NUC\(Intel便携式主机\)
 
