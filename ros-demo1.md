@@ -35,6 +35,8 @@ ubuntu终端的打开
 
 快捷键 独立方式 ctrl+alt+t
 
+鼠标打开
+
 ## 课程扩展
 
 * rosservice的使用方法
