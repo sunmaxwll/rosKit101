@@ -69,9 +69,19 @@ rosrun
 
 启动turtlesim\_node节点 打开小乌龟
 
-
-
 启动turtle\_teleop节点 并控制小乌龟
+
+查看小乌龟节点与话题的关系
+
+rqt\_graph
+
+指令控制运动
+
+rostopic pub
+
+GUI控制运动
+
+rqt
 
 
 
