@@ -67,8 +67,6 @@ roscore
 
 rosrun
 
-演练
-
 启动turtlesim\_node节点
 
 启动turtle\_teleop节点
