@@ -61,6 +61,16 @@ gedit
 
 ctrl+c
 
+#### ROS系统的常用命令
+
+roscore
+
+rosrun
+
+演练
+
+启动turtlesim\_node节点
+
 ## 课程扩展
 
 * rosservice的使用方法
