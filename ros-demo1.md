@@ -71,6 +71,8 @@ rosrun
 
 启动turtlesim\_node节点
 
+启动turtle\_teleop
+
 ## 课程扩展
 
 * rosservice的使用方法
