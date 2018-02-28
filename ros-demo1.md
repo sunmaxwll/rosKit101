@@ -59,6 +59,8 @@ touch
 
 gedit
 
+ctrl+C
+
 ## 课程扩展
 
 * rosservice的使用方法
