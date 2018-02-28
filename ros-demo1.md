@@ -31,11 +31,9 @@
 
 ubuntu终端的打开
 
+快捷键并排方式 ctrl+shift+t
 
-
-并排方式 ctrl+shift+t
-
-独立方式 ctrl+alt+t
+快捷键独立方式 ctrl+alt+t
 
 ## 课程扩展
 
