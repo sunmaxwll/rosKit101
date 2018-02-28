@@ -59,7 +59,7 @@ touch
 
 gedit
 
-ctrl+C
+ctrl+c
 
 ## 课程扩展
 
