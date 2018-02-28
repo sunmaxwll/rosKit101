@@ -93,7 +93,7 @@ differential control Kinematic model\(差速运动底盘\)
 
 NUC\(Intel便携式主机\)
 
-LR200
+LR200\(Intel Realsense实感深度摄像头\)
 
 ## 课程扩展
 
