@@ -61,7 +61,7 @@ gedit
 
 ctrl+c
 
-#### ROS系统的常用命令
+#### ROS系统的常用命令实践操作
 
 roscore
 
@@ -84,6 +84,8 @@ rostopic pub
 GUI控制运动
 
 rqt
+
+
 
 ## 课程扩展
 
