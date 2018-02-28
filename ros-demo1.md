@@ -87,25 +87,18 @@ rqt
 
 #### 控制实体机器人RBC-BOT
 
-硬件组成
+* 硬件组成
 
-differential control Kinematic model\(差速运动底盘-Arduino底层驱动器\)
+> > * differential control Kinematic model\(差速运动底盘-Arduino底层驱动器\)
+> > * NUC\(Intel便携式主机\)
+> > * LR200\(Intel Realsense实感深度摄像头\)
 
-NUC\(Intel便携式主机\)
-
-LR200\(Intel Realsense实感深度摄像头\)
-
-实践控制
-
-硬件连接
-
-启动设备
-
-运行节点
-
-控制机器人绘制圆弧
-
-控制机器人
+* 实践控制
+* 硬件连接
+* 启动设备
+* 运行节点
+* 控制机器人绘制圆弧
+* 控制机器人
 
 ## 课程扩展
 
