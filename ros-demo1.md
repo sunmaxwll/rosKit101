@@ -59,6 +59,8 @@ ls
 
 mkdir
 
+touch
+
 ## 课程扩展
 
 * rosservice的使用方法
