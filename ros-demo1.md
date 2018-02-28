@@ -67,7 +67,7 @@ roscore
 
 rosrun
 
-启动turtlesim\_node节点
+启动turtlesim\_node节点 打开小乌龟
 
 启动turtle\_teleop节点 并控制小乌龟
 
