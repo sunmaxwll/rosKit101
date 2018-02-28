@@ -89,7 +89,7 @@ rqt
 
 硬件组成
 
-differential control Kinematic model\(差分控制模型\)
+differential control Kinematic model\(差速运动底盘\)
 
 NUC
 
