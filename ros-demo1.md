@@ -91,7 +91,7 @@ rqt
 
 differential control Kinematic model\(差速运动底盘\)
 
-NUC
+NUC\(Intel便携式主机\)
 
 LR200
 
