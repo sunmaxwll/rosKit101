@@ -95,6 +95,10 @@ NUC\(Intel便携式主机\)
 
 LR200\(Intel Realsense实感深度摄像头\)
 
+实战控制
+
+
+
 ## 课程扩展
 
 * rosservice的使用方法
