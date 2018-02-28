@@ -71,7 +71,7 @@ rosrun
 
 启动turtlesim\_node节点
 
-启动turtle\_teleop
+启动turtle\_teleop节点
 
 ## 课程扩展
 
