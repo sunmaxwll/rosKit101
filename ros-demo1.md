@@ -29,13 +29,11 @@
 
 ## 课程过程
 
-ubuntu终端的打开
+#### ubuntu终端的打开
 
-快捷键 并排方式 ctrl+shift+t
-
-快捷键 独立方式 ctrl+alt+t
-
-鼠标打开
+* 快捷键 并排方式 ctrl+shift+t
+* 快捷键 独立方式 ctrl+alt+t
+* 鼠标打开
 
 【图】
 
