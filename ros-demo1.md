@@ -73,6 +73,8 @@ rosrun
 
 查看小乌龟节点与话题的关系
 
+rostopic list
+
 rqt\_graph
 
 指令控制运动
@@ -82,8 +84,6 @@ rostopic pub
 GUI控制运动
 
 rqt
-
-
 
 ## 课程扩展
 
