@@ -89,6 +89,8 @@ rqt
 
 硬件组成
 
+differential control Kinematic model
+
 NUC
 
 LR200
