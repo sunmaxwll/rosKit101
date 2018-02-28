@@ -105,6 +105,8 @@ LR200\(Intel Realsense实感深度摄像头\)
 
 控制机器人绘制圆弧
 
+控制机器人
+
 ## 课程扩展
 
 * rosservice的使用方法
